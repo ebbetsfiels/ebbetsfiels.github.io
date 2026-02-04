@@ -1,0 +1,12 @@
+ :root { 
+    --color-1: #393E46;
+    --color-2: #222831;
+    --color-3: #948979;
+    --color-4: #DFD0B8;
+}
+ 
+ 
+ body { 
+    color: white;
+background-color: var(--color-1);
+ }

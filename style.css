@@ -12,6 +12,11 @@
  
  body { 
     color: white;
-background-color: var(--color-1)
-font-familly:"montserrat"sans-sense
+background-color: var(--color-1);
+font-familly:"montserrat"sans-sense;
  }
+
+ .text-center {
+    text-align: center;
+  }
+  

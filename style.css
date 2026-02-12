@@ -16,7 +16,26 @@ background-color: var(--color-1);
 font-familly:"montserrat"sans-sense;
  }
 
+ body
+ 
+ 
  .text-center {
     text-align: center;
   }
   
+nav{ 
+
+   background-color: var(--color-3);
+}
+
+
+nav a {
+     color: var(--color-4);
+     text-decoration:none;
+   padding: 16px;
+   display:inline-block
+}
+nav a:hover{
+   background-color:var(--color-2)
+   /*border-bottom:2px solid black;*/
+}

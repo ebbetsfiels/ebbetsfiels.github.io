@@ -24,7 +24,7 @@ font-familly:"montserrat"sans-sense;
   }
   
 nav{ 
-
+display: flex ;
    background-color: var(--color-3);
 }
 
@@ -39,3 +39,8 @@ nav a:hover{
    background-color:var(--color-2)
    /*border-bottom:2px solid black;*/
 }
+
+.me {
+   border-radius: 300px;
+}
+nav
